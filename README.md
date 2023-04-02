@@ -10,7 +10,7 @@ As GreekBART is built upon on BART model, it is suitable for generative tasks.
 
 | Model         | Architecture  | #layers | #params | Link  |
 | ------------- |:-------------:|:-------:|:-------:|:-----:|
-| GreekBART     |    BASE       |   12    |  181M   | [Link](https://drive.google.com/file/d/1W4GKk-VwUYBwUE5BdAWjSsGkgv7IAdsm/view?usp=share_link) |
+| GreekBART     |    BASE       |   12    |  181M   | [Link](https://drive.google.com/file/d/1T1FwaXGDnRv0LKMYB60eq4UoUYgfNWBJ/view?usp=share_link) |
 
 
 
