@@ -70,7 +70,7 @@ Into the subfolder "examples", we can find the four discriminative tasts, in whi
 
 #### classification-GreekSUM
 ##### Get GreekSUM classification dataset
-Please follow the steps [here](https://github.com/iakovosevdaimon/GreekSUM) to get GreekSUM.
+Please follow the steps [here](https://github.com/anonymousUserGithub1/GreekSUM) to get GreekSUM.
 
 We run the following scripts:
 - "src/examples/classification-GreekSUM/sentencepiece_nli.sh" (tokenize datasets)
@@ -113,7 +113,7 @@ If you trained the model with multiple seeds, you can utilize the "src/examples/
 Thanks to its encoder-decoder structure, GreekBART can perform generative tasks such as summarization.
 
 #### Get the summarization dataset
-Please follow the steps [here](https://github.com/iakovosevdaimon/GreekSUM) to get GreekSUM.
+Please follow the steps [here](https://github.com/anonymousUserGithub1/GreekSUM) to get GreekSUM.
 
 #### Abstract
 We run the following scripts:
@@ -132,13 +132,3 @@ We run the following scripts:
 Use "src/summarization/generate_summary.py" and "src/summarization/calculate_score.py" to generate the summaries and to compute their ROUGE and BERTScore scores, respectively. No stemming is applied before evaluation.
 
 Finally, we can execute the "src/summarization/models_statistics.r" script to compute statistics on the generated summaries, such as their length and the percentage of repetitions relative to their reference summaries.
-
-
-You can find our demo [HERE](http://nlp.polytechnique.fr/greekbart#greek)
-
-```
-
-If you use the code or any of the models, you can cite the following paper:
-```
-
-```
